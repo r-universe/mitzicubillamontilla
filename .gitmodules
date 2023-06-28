@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "SparseBiplots"]
 	path = SparseBiplots
 	url = https://github.com/mitzicubillamontilla/sparsebiplots
-	shallow = true
-	registered = true
